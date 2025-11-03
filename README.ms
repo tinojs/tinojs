@@ -24,6 +24,9 @@ I'm a **Front-End Developer** from Bulgaria, passionate about building clean, re
 - **MySQL** – Software University  
 - **Angular** – Software University  
 - **HTML & CSS** – Software University  
+## 📜 Certificates
+🏅 [React](https://github.com/tinojs/tinojs/blob/main/ReactJS%20-%20February%202025%20-%20Certificate.pdf) • [TypeScript](link) • [MySQL](link) • [Angular](link)
+
 
 ---
 
