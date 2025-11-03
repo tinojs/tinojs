@@ -31,36 +31,6 @@ I'm a **Front-End Developer** from Bulgaria, passionate about building clean, re
 - [MySQL Certificate](https://github.com/tinojs/tinojs/blob/main/MySQL%20-%20May%202025%20-%20Certificate.pdf)
 
 ---
-## 🏅 Certificates
-
-<p align="center">
-  <a href="https://github.com/tinojs/tinojs/blob/main/ReactJS%20-%20February%202025%20-%20Certificate.pdf">
-    <img src="https://img.shields.io/badge/React-Certificate-blue?logo=react&logoColor=white" alt="React Certificate"/>
-  </a>
-  <a href="https://github.com/tinojs/tinojs/blob/main/Angular%20-%20June%202025%20-%20Certificate.pdf">
-    <img src="https://img.shields.io/badge/Angular-Certificate-D00031?logo=angular&logoColor=white" alt="Angular Certificate"/>
-  </a>
-  <a href="https://github.com/tinojs/tinojs/blob/main/TypeScript%20-%20October%202024%20-%20Certificate.pdf">
-    <img src="https://img.shields.io/badge/TypeScript-Certificate-3178C6?logo=typescript&logoColor=white" alt="TypeScript Certificate"/>
-  </a>
-  <a href="https://github.com/tinojs/tinojs/blob/main/MySQL%20-%20May%202025%20-%20Certificate.pdf">
-    <img src="https://img.shields.io/badge/MySQL-Certificate-4479A1?logo=mysql&logoColor=white" alt="MySQL Certificate"/>
-  </a>
-</p>
-
-<details>
-<summary>📜 View all certificates</summary>
-
-- [Programming Basics Certificate](https://github.com/tinojs/tinojs/blob/main/Programming%20Basics%20-%20March%202023%20-%20Certificate.pdf)
-- [Programming Fundamentals Certificate](https://github.com/tinojs/tinojs/blob/main/Programming%20Fundamentals%20with%20JavaScript%20-%20January%202024%20-%20Certificate.pdf)
-- [JS Advanced Certificate](https://github.com/tinojs/tinojs/blob/main/JS%20Advanced%20-%20September%202024%20-%20Certificate.pdf)
-- [JS Applications Certificate](https://github.com/tinojs/tinojs/blob/main/JS%20Applications%20-%20October%202024%20-%20Certificate.pdf)
-- [JS Back-End Certificate](https://github.com/tinojs/tinojs/blob/main/JS%20Back-End%20-%20May%202024%20-%20Certificate.pdf)
-- [HTML & CSS Certificate](https://github.com/tinojs/tinojs/blob/main/HTML%20&%20CSS%20-%20January%202024%20-%20Certificate.pdf)
-
-</details>
-
----
 
 ## 📫 Contact
 📧 **tinoworkmail@gmail.com**  
