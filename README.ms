@@ -21,7 +21,7 @@ JavaScript (ES6+), TypeScript, HTML5, CSS3
 React, Angular, Node.js (introductory)  
 
 **Databases:**  
-MySQL, PostgreSQL (basic)  
+MySQL, PostgreSQL (basic), ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Other Skills:**  
 Responsive Design, REST APIs, UI/UX Principles, Git, MS Office
