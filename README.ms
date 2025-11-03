@@ -18,11 +18,13 @@ I'm a **Front-End Developer** from Bulgaria, passionate about building clean, re
 
 ---
 
-## 📜 Certificates
+## 📜 Certificates  
+
 [![React](https://img.shields.io/badge/React-Certificate-blue?logo=react&logoColor=white)](https://github.com/tinojs/tinojs/blob/main/ReactJS%20-%20February%202025%20-%20Certificate.pdf)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Certificate-3178C6?logo=typescript&logoColor=white)](https://github.com/tinojs/tinojs/blob/main/TypeScript%20-%20October%202024%20-%20Certificate.pdf)
 [![MySQL](https://img.shields.io/badge/MySQL-Certificate-4479A1?logo=mysql&logoColor=white)](https://github.com/tinojs/tinojs/blob/main/MySQL%20-%20May%202025%20-%20Certificate.pdf)
 [![Angular](https://img.shields.io/badge/Angular-Certificate-DD0031?logo=angular&logoColor=white)](https://github.com/tinojs/tinojs/blob/main/Angular%20-%20June%202025%20-%20Certificate.pdf)
+
 ---
 
 ## 📫 Contact
