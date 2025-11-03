@@ -33,21 +33,20 @@ I'm a **Front-End Developer** from Bulgaria, passionate about building clean, re
 ---
 ## 🏅 Certificates
 
-<div style="text-align: center;">
-
-![React Certificate](https://img.shields.io/badge/React-Certificate-blue?logo=react&logoColor=white)  
-[React Certificate](https://github.com/tinojs/tinojs/blob/main/ReactJS%20-%20February%202025%20-%20Certificate.pdf)
-
-![Angular Certificate](https://img.shields.io/badge/Angular-Certificate-D00031?logo=angular&logoColor=white)  
-[Angular Certificate](https://github.com/tinojs/tinojs/blob/main/Angular%20-%20June%202025%20-%20Certificate.pdf)
-
-![TypeScript Certificate](https://img.shields.io/badge/TypeScript-Certificate-3178C6?logo=typescript&logoColor=white)  
-[TypeScript Certificate](https://github.com/tinojs/tinojs/blob/main/TypeScript%20-%20October%202024%20-%20Certificate.pdf)
-
-![MySQL Certificate](https://img.shields.io/badge/MySQL-Certificate-4479A1?logo=mysql&logoColor=white)  
-[MySQL Certificate](https://github.com/tinojs/tinojs/blob/main/MySQL%20-%20May%202025%20-%20Certificate.pdf)
-
-</div>
+<p align="center">
+  <a href="https://github.com/tinojs/tinojs/blob/main/ReactJS%20-%20February%202025%20-%20Certificate.pdf">
+    <img src="https://img.shields.io/badge/React-Certificate-blue?logo=react&logoColor=white" alt="React Certificate"/>
+  </a>
+  <a href="https://github.com/tinojs/tinojs/blob/main/Angular%20-%20June%202025%20-%20Certificate.pdf">
+    <img src="https://img.shields.io/badge/Angular-Certificate-D00031?logo=angular&logoColor=white" alt="Angular Certificate"/>
+  </a>
+  <a href="https://github.com/tinojs/tinojs/blob/main/TypeScript%20-%20October%202024%20-%20Certificate.pdf">
+    <img src="https://img.shields.io/badge/TypeScript-Certificate-3178C6?logo=typescript&logoColor=white" alt="TypeScript Certificate"/>
+  </a>
+  <a href="https://github.com/tinojs/tinojs/blob/main/MySQL%20-%20May%202025%20-%20Certificate.pdf">
+    <img src="https://img.shields.io/badge/MySQL-Certificate-4479A1?logo=mysql&logoColor=white" alt="MySQL Certificate"/>
+  </a>
+</p>
 
 <details>
 <summary>📜 View all certificates</summary>
@@ -60,7 +59,6 @@ I'm a **Front-End Developer** from Bulgaria, passionate about building clean, re
 - [HTML & CSS Certificate](https://github.com/tinojs/tinojs/blob/main/HTML%20&%20CSS%20-%20January%202024%20-%20Certificate.pdf)
 
 </details>
-
 
 ---
 
