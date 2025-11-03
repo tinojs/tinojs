@@ -20,18 +20,11 @@ I'm a **Front-End Developer** from Bulgaria, passionate about building clean, re
 
 ## 📜 Certificates
 
-| Course | Certificate |
-|:-------|:-------------|
-| Programming Basics | [🎓 View Certificate](https://github.com/tinojs/tinojs/blob/main/Programming%20Basics%20-%20March%202023%20-%20Certificate.pdf) |
-| Programming Fundamentals (with JavaScript) | [🎓 View Certificate](https://github.com/tinojs/tinojs/blob/main/Programming%20Fundamentals%20with%20JavaScript%20-%20January%202024%20-%20Certificate.pdf) |
-| JS Advanced | [🎓 View Certificate](https://github.com/tinojs/tinojs/blob/main/JS%20Advanced%20-%20September%202023%20-%20Certificate.pdf) |
-| JS Applications | [🎓 View Certificate](https://github.com/tinojs/tinojs/blob/main/JS%20Applications%20-%20October%202023%20-%20Certificat.pdf) |
-| JS Back-End | [🎓 View Certificate](https://github.com/tinojs/tinojs/blob/main/JS%20Back-End%20-%20May%202024%20-%20Certificate.pdf) |
-| HTML & CSS | [🎓 View Certificate](https://github.com/tinojs/tinojs/blob/main/HTML%20%26%20CSS%20-%20January%202024%20-%20Certificate.pdf) |
-| React | [🎓 View Certificate](https://github.com/tinojs/tinojs/blob/main/ReactJS%20-%20February%202025%20-%20Certificate.pdf) |
-| Angular | [🎓 View Certificate](https://github.com/tinojs/tinojs/blob/main/Angular%20-%20June%202025%20-%20Certificate.pdf) |
-| TypeScript | [🎓 View Certificate](https://github.com/tinojs/tinojs/blob/main/TypeScript%20-%20October%202024%20-%20Certificate.pdf) |
-| MySQL | [🎓 View Certificate](https://github.com/tinojs/tinojs/blob/main/MySQL%20-%20May%202025%20-%20Certificate.pdf) |
+| Programming Basics |   | Programming Fundamentals | 
+| JS Advanced |          | JS Applications |
+| JS Back-End |          | HTML & CSS | 
+| React |                | Angular | 
+| TypeScript |           | MySQL | 
 
 ---
 
