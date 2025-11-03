@@ -45,6 +45,7 @@ I'm a **Front-End Developer** from Bulgaria, passionate about building clean, re
 
 ## 📫 Contact
 📧 **tinoworkmail@gmail.com**  
+
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to check out my projects and connect with me.*
