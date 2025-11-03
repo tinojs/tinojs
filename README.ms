@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Konstantin Ivanov
 
+💻 **Front-End Developer | JavaScript | React | Angular**
+
 I'm a **Front-End Developer** from Bulgaria, passionate about building clean, responsive, and user-friendly web applications.
 
 🎓 Recently completed the **JavaScript Developer Program** at Software University  
@@ -11,10 +13,18 @@ I'm a **Front-End Developer** from Bulgaria, passionate about building clean, re
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3  
-**Frameworks & Libraries:** React, Angular, Node.js (introductory)  
-**Databases:** MySQL, PostgreSQL (basic)  
-**Other Skills:** Responsive Design, REST APIs, UI/UX principles, MS Office  
+
+**Languages:**  
+JavaScript (ES6+), TypeScript, HTML5, CSS3  
+
+**Frameworks & Libraries:**  
+React, Angular, Node.js (introductory)  
+
+**Databases:**  
+MySQL, PostgreSQL (basic)  
+
+**Other Skills:**  
+Responsive Design, REST APIs, UI/UX Principles, Git, MS Office
 
 ---
 
@@ -25,6 +35,15 @@ I'm a **Front-End Developer** from Bulgaria, passionate about building clean, re
 | JS Back-End |          | HTML & CSS | 
 | React |                | Angular | 
 | TypeScript |           | MySQL | 
+
+---
+
+## 👨‍💻 About Me
+- 🎓 Graduate of Software University – JavaScript Developer Program  
+- 🌍 Based in Dobrich, Bulgaria  
+- 🚀 Love turning ideas into functional, user-friendly interfaces  
+- 🧠 Constantly learning React, TypeScript, and modern front-end tools  
+- 💬 Open to collaboration and learning opportunities
 
 ---
 
