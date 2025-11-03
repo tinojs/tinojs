@@ -33,7 +33,7 @@ I'm a **Front-End Developer** from Bulgaria, passionate about building clean, re
 | Programming Basics | [🎓 View](https://github.com/tinojs/tinojs/blob/main/Programming%20Basics%20-%20March%202023%20-%20Certificate.pdf) |
 | Programming Fundamentals | [🎓 View](https://github.com/tinojs/tinojs/blob/main/Programming%20Fundamentals%20with%20JavaScript%20-%20January%202024%20-%20Certificate.pdf) |
 | JS Advanced | [🎓 View](https://github.com/tinojs/tinojs/blob/main/JS%20Advanced%20-%20September%202023%20-%20Certificate.pdf) |
-| JS Applications | [🎓 View](https://github.com/tinojs/tinojs/blob/main/JS%20Applications%20-%20October%202023%20-%20Certificate.pdf) |
+| JS Applications | [🎓 View](https://github.com/tinojs/tinojs/blob/main/JS%20Applications%20-%20October%202023%20-%20Certificat.pdf) |
 | JS Back-End | [🎓 View](https://github.com/tinojs/tinojs/blob/main/JS%20Back-End%20-%20May%202024%20-%20Certificate.pdf) |
 | HTML & CSS | [🎓 View](https://github.com/tinojs/tinojs/blob/main/HTML%20%26%20CSS%20-%20January%202024%20-%20Certificate.pdf) |
 | React | [🎓 View](https://github.com/tinojs/tinojs/blob/main/ReactJS%20-%20February%202025%20-%20Certificate.pdf) |
