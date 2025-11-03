@@ -1,4 +1,13 @@
 # 👋 Hi, I'm Konstantin Ivanov
+---
+
+⭐ *Thanks for visiting my profile! Feel free to check out my projects and connect with me.*
+
+---
+
+📧 Contact: **tinoworkmail@gmail.com**  
+
+---
 
 💻 **Front-End Developer | JavaScript | React | Angular**
 
@@ -42,10 +51,3 @@ I'm a **Front-End Developer** from Bulgaria, passionate about building clean, re
 | MySQL | [🎓 View](https://github.com/tinojs/tinojs/blob/main/MySQL%20-%20May%202025%20-%20Certificate.pdf) |
 
 ---
-
-## 📫 Contact
-📧 **tinoworkmail@gmail.com**  
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to check out my projects and connect with me.*
